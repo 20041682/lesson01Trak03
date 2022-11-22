@@ -1,0 +1,15 @@
+C:\Users\Роман\Desktop\обучение\С#\Lesson01\Trak03\obj\Debug\net6.0\Trak03.csproj.AssemblyReference.cache
+C:\Users\Роман\Desktop\обучение\С#\Lesson01\Trak03\obj\Debug\net6.0\Trak03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роман\Desktop\обучение\С#\Lesson01\Trak03\obj\Debug\net6.0\Trak03.AssemblyInfoInputs.cache
+C:\Users\Роман\Desktop\обучение\С#\Lesson01\Trak03\obj\Debug\net6.0\Trak03.AssemblyInfo.cs
+C:\Users\Роман\Desktop\обучение\С#\Lesson01\Trak03\obj\Debug\net6.0\Trak03.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\обучение\С#\Lesson01\Trak03\bin\Debug\net6.0\Trak03.exe
+C:\Users\Роман\Desktop\обучение\С#\Lesson01\Trak03\bin\Debug\net6.0\Trak03.deps.json
+C:\Users\Роман\Desktop\обучение\С#\Lesson01\Trak03\bin\Debug\net6.0\Trak03.runtimeconfig.json
+C:\Users\Роман\Desktop\обучение\С#\Lesson01\Trak03\bin\Debug\net6.0\Trak03.dll
+C:\Users\Роман\Desktop\обучение\С#\Lesson01\Trak03\bin\Debug\net6.0\Trak03.pdb
+C:\Users\Роман\Desktop\обучение\С#\Lesson01\Trak03\obj\Debug\net6.0\Trak03.dll
+C:\Users\Роман\Desktop\обучение\С#\Lesson01\Trak03\obj\Debug\net6.0\refint\Trak03.dll
+C:\Users\Роман\Desktop\обучение\С#\Lesson01\Trak03\obj\Debug\net6.0\Trak03.pdb
+C:\Users\Роман\Desktop\обучение\С#\Lesson01\Trak03\obj\Debug\net6.0\Trak03.genruntimeconfig.cache
+C:\Users\Роман\Desktop\обучение\С#\Lesson01\Trak03\obj\Debug\net6.0\ref\Trak03.dll
